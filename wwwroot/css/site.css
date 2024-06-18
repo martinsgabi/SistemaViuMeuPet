@@ -1,0 +1,57 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    align-items: center;
+    justify-content: center;
+    background-color: #FBF6F3;
+}
+/*caixa*/
+.col-md-4 {
+    background-color: #7723CD;
+    color: white;
+    border-radius: 10px;
+    padding: 2rem 2rem;
+    width: 500px;
+    margin: 0 auto;
+}
+
+input {
+    margin-top: 7px;
+}
+
+.btn {
+    background-color: #E3AB1D;
+    border: none;
+    width: 435px;
+}
+
+.logo {
+    width: 150px;
+
+}
+
+.nav-link text-dark {
+    color: #7723CD;
+}
+
+.container-fluid {
+    background-color: #FBF6F3;
+}
+
+
+
+
